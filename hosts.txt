@@ -8,6 +8,21 @@ delivery.vidible.tv
 ads.adaptv.advertising.com
 imasdk.googleapis.com
 nextmillennium.liqwid.net
-cs.adtags.mobi
 pagead2.googlesyndication.com
 ad.doubleclick.net
+s.adroll.com
+s.ntv.io
+js-sec.indexww.com
+securepubads.g.doubleclick.net
+ads.servebom.com
+ml314.com
+b.cdnst.net
+c.aaxads.com
+b.cdnst.net
+ads.adthrive.com
+live.sekindo.com
+js-sec.indexww.com
+
+# Wildcards
+(^|\.)amazon-adsystem\.com$
+(^|\.)adtags\.mobi$
