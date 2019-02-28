@@ -22,7 +22,3 @@ b.cdnst.net
 ads.adthrive.com
 live.sekindo.com
 js-sec.indexww.com
-
-# Wildcards
-(^|\.)amazon-adsystem\.com$
-(^|\.)adtags\.mobi$
