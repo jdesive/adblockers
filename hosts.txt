@@ -22,3 +22,6 @@ b.cdnst.net
 ads.adthrive.com
 live.sekindo.com
 js-sec.indexww.com
+
+# Metrics
+msmetrics.ws.sonos.com
